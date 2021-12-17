@@ -30,6 +30,6 @@ Given source data in the form of a .JSON file from Wikipedia and two large .CSV 
 - A connection to a local Postgres database server is established.
 - 26,024,289 rows, containing metadata from 6,052 movies, are cleaned and imported into the SQL server.
 
-![movies_query.png](https://github.com/ZeroDarkHardy/Movies-ETL/blob/main/Queries/movies_query.png)
+![movies_query.png](https://github.com/ZeroDarkHardy/Movies-ETL/blob/main/Resources/movies_query.png)
 
-![ratings_query.png](https://github.com/ZeroDarkHardy/Movies-ETL/blob/main/Queries/ratings_query.png)
+![ratings_query.png](https://github.com/ZeroDarkHardy/Movies-ETL/blob/main/Resources/ratings_query.png)
